@@ -23,5 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=archief2910&show_icons=true&locale=en" alt="archief2910" /></p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=archief2910" alt="GitHub Streak Stats"/>
+<img src="http://github-readme-streak-stats.herokuapp.com/?user=archief2910" alt="GitHub Streak Stats"/>
 
