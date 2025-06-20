@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archief2910" alt="archief2910" /></a> </p>
 
-- 🌱 I’m currently learning **Nginx and AWS deployment for efficient web hosting.**
+- 🌱 I’m currently final-year student in  **IIITA**
 
 - 💬 Ask me about **Node.js,C++ and docker**
 
