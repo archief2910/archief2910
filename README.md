@@ -5,11 +5,7 @@
 
 - 🌱 I’m currently final-year student in  **IIITA**
 
-- 💬 Ask me about **Node.js,C++ and docker**
-
 - 📫 How to reach me **archief117@gmail.com**
-
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1ffKXtLQsmZoPIpMaQVSTBUPiUvj_f89w/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
