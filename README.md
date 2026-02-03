@@ -6,7 +6,7 @@ I'm a passionate Fullstack Developer from India 🇮🇳, dedicated to building 
 
 ## 🏗️ Featured Projects
 
-### 🚀 [InstructAI]([https://github.com/rebornstar1/InstructAI](https://github.com/archief2910/InstructAI))
+### 🚀 [InstructAI]([https://github.com/archief2910/InstructAI])
 AI-driven learning platform with real-time video/audio rooms and adaptive content generation.
 - 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
 - ⚙️ Stack: Spring Boot, Redis, Socket.io, WebRTC, PostgreSQL, Docker
