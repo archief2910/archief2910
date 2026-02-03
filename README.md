@@ -1,4 +1,4 @@
-# 👋 Hi!
+# 👋 Hi I,m Aryan !
 
 I'm a passionate Fullstack Developer from India 🇮🇳, dedicated to building innovative, scalable web applications and contributing to open-source projects. I enjoy exploring cutting-edge tech like **React, Spring Boot, Redis, WebRTC, and Docker**, and have hands-on experience through real-world projects and internships.
 
@@ -11,24 +11,19 @@ AI-driven learning platform with real-time video/audio rooms and adaptive conten
 - 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
 - ⚙️ Stack: Spring Boot, Redis, Socket.io, WebRTC, PostgreSQL, Docker
 
-### 💻 [CodeBox](https://github.com/rebornstar1/CodeBox)
-Containerized multi-language code execution platform with microservices architecture.
-- 🔗 [Live](https://code-box-gamma.vercel.app)
-- ⚙️ Stack: Node.js, Docker, Redis, RabbitMQ, Express
-
-### 🌐 [VentureBoost](https://github.com/rebornstar1/VentureBoost)
-A collaborative platform for startup pitching, funding, and real-time discussions.
-- 💬 Real-time messaging via Socket.io
-- 💳 Stripe for seamless transactions
 
 ---
 
 ## 💼 Experience
 
-- 👨‍💻 **Spring Boot Intern** @ Screenera.ai (Jan 2025 – Present)  
+- 👨‍💻 **SDE Intern** @ Upstox (December 2025 - present)  
+  Worked in an enterprise engineering environment building full-stack applications with React (MobX/Redux) and designing REST APIs using Node.js (Strapi) and Spring Boot      with MySQL.
+  Utilized Redis for caching, Docker for containerization, Maven for build management, and followed Agile practices with Bitbucket and Jira for version control, code          reviews, and sprint tracking.
+
+- 👨‍💻 **SDE Intern** @ Screenera.ai (May 2025 - July 2025)  
   Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
 
-- 👨‍💻 **MERN Stack Intern** @ DigitalMania  
+- 👨‍💻 **SDE Intern** @ Pageup software services (Jan 2025 - April 2025)
   Contributed to full-stack development and real-time features.
 
 ---
@@ -45,10 +40,8 @@ I actively use Redis for:
 ## 🏅 Achievements
 
 - 🥇 Finalist - Amdocs GenAI Hackathon (Top 4 of 12,000+)
-- 🌍 World Rank 74 – CodeChef Starter 102
-- 🧮 Specialist – Codeforces (@reborn_star)
+- 🧮 Specialist – Codeforces (@Archief117)
 - 🦸‍♂️ Knight Badge – LeetCode
-- 🏆 Champion Badge – GirlScript Summer of Code 2024
 
 ---
 
@@ -87,6 +80,8 @@ I actively use Redis for:
 
 ## 🌱 Currently Exploring
 - ⚛️ Advanced React Patterns
+- 🧩 MobX and Redux State Management
+- 🤖 SDLC Automation through Agentic AI
 - 🧪 Distributed Systems with Spring Boot
 - 🗃️ Redis + Pub/Sub + Caching Patterns
 - 🧠 Microservice Design with RabbitMQ, Kong, and Kubernetes
@@ -95,10 +90,9 @@ I actively use Redis for:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-manikrao-paul/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rebornstar1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:paulsanjaymanikrao67@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://github.com/rebornstar1/resume/blob/main/Sanjay_Paul_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gautam-51a4a3253/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archief2910)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archief117@gmail.com)
 
 ---
 
