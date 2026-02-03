@@ -11,6 +11,10 @@ AI-driven learning platform with real-time video/audio rooms and adaptive conten
 - 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
 - ⚙️ Stack: Spring Boot, Redis, Socket.io, WebRTC, PostgreSQL, Docker
 
+### 🚀 [Scriptly](https://github.com/archief2910/Scriptly)
+Real-time collaborative document editor
+- 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
+- ⚙️ Stack: Spring Boot, Socket.io, WebRTC, 
 
 ---
 
