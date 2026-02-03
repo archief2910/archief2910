@@ -13,7 +13,7 @@ AI-driven learning platform with real-time video/audio rooms and adaptive conten
 
 ### 🚀 [Scriptly](https://github.com/archief2910/Scriptly)
 Real-time collaborative document editor
-- 🔗 [Live Demo](https://instruct-ai-oher.vercel.app)
+- 🔗 [Live Demo](https://scriptly-steel.vercel.app/)
 - ⚙️ Stack: Spring Boot, Socket.io, WebRTC, 
 
 ---
