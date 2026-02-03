@@ -24,7 +24,7 @@ AI-driven learning platform with real-time video/audio rooms and adaptive conten
   Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
 
 - 👨‍💻 **SDE Intern** @ Pageup software services (Jan 2025 - April 2025)
-  Contributed to full-stack development and real-time features.
+   Contributed to full-stack development and real-time features.
 
 ---
 
