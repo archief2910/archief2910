@@ -94,18 +94,3 @@ I actively use Redis for:
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/archief2910)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:archief117@gmail.com)
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&include_all_commits=true" width="500"/>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=rebornstar1&theme=react&border=61DAFB&fire=DDB80F" width="500"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rebornstar1&show_icons=true&theme=react&border_color=61dafb&layout=compact" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rebornstar1&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rebornstar1&icon=0&color=0" alt="Profile Views" />
-</p>
