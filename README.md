@@ -28,11 +28,10 @@ In-memory key-value based database inspired by redis in node.js
   -Utilized Redis for caching, Docker for containerization, Maven for build management, and followed Agile practices with Bitbucket and Jira for version control, code          reviews, and sprint tracking.
 
 - 👨‍💻 **SDE Intern** @ Screenera.ai (May 2025 - July 2025)  
-  -Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
+  - Built microservices with Spring Boot, Kong Gateway, Redis, Keycloak, RabbitMQ, and Docker.
 
 - 👨‍💻 **SDE Intern** @ Pageup software services (Jan 2025 - April 2025)
-  -Contributed to full-stack development and real-time features.
-
+  - Contributed to full-stack development and real-time features.
 ---
 
 ## 🧠 Redis in Action
