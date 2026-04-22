@@ -23,7 +23,7 @@ In-memory key-value based database inspired by redis in node.js
 
 ## 💼 Experience
 
-- 👨‍💻 **SDE Intern** @ Upstox (December 2025 - present)  
+- 👨‍💻 **SDE Intern** @ Upstox 
    - Worked in an enterprise engineering environment building full-stack applications with React (MobX/Redux) and designing REST APIs using Node.js (Strapi) and Spring Boot      with MySQL.
    - Utilized Redis for caching, Docker for containerization, Maven for build management, and followed Agile practices with Bitbucket and Jira for version control, code          reviews, and sprint tracking.
 
