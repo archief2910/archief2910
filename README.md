@@ -1,7 +1,7 @@
 # 👋 Hi I,m Aryan !
 
 I'm a passionate Fullstack and ML Developer from India 🇮🇳, dedicated to building innovative, scalable web applications and contributing to open-source projects. I enjoy exploring cutting-edge tech like **React, Spring Boot, Redis, WebRTC,Python and Docker**, and have hands-on experience through real-world projects and internships.
-
+@nostream
 ---
 
 ## 🏗️ Featured Projects
