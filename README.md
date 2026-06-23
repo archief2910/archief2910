@@ -51,6 +51,14 @@ I actively use Redis for:
 
 ---
 
+## 🌞 Summer of Bitcoin 2026
+
+Selected through a 3-stage competitive challenge process among thousands of applicants, I completed all three Developer Track challenges in **Summer of Bitcoin 2026** — scoring **96/100** in the final week with an approach the reviewer noted no other participant had tried. During the program, I contributed to **[nostream](https://github.com/cameri/nostream)** and **[strfry](https://github.com/hoytech/strfry)**, two open-source Nostr relay implementations in the Bitcoin ecosystem. This journey led me to **[DragonflyDB](https://github.com/dragonflydb/dragonfly)**, where I refactored a core expiration structure and fixed a silent overflow bug that could cause incorrect key eviction in production systems.
+
+🏅 Certificate ID: `SOB26-REC-1B04647A`
+
+---
+
 ## 💻 Tech Stack
 
 ### Languages  
